@@ -4,7 +4,7 @@ def fun(e):
   x=e.widget.message
   t1.insert("insert",x)
 
-# تعریف عملگر های جمع، تفریق، ضرب و تقسیم
+# تعریف عملگر های جمع، تفریق، ضرب و تقسیم و درصد
 
 def plus(e):
   global opr,xx
