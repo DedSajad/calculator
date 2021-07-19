@@ -1,3 +1,6 @@
+# write the following command in cmd/powershell
+# python -m pip install Tkinter
+
 from Tkinter import *
 def fun(e):
   global x
